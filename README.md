@@ -26,9 +26,7 @@ This dashboard is part of my data analytics portfolio. It demonstrates my abilit
 - Design user-friendly, insight-driven dashboards
 - Communicate business trends visually
 
-## 📷 Screenshot
-
-> *(Add a screenshot of your dashboard here for visual impact — optional but powerful!)*
+## 📷 Screenshots
 <img width="1161" height="753" alt="Screenshot 2025-07-22 124315" src="https://github.com/user-attachments/assets/30347f58-e851-4baa-bb8c-f2363af9e6b8" />
 <img width="968" height="573" alt="image" src="https://github.com/user-attachments/assets/86dfe67a-f1ef-491e-9279-63a6119cba4c" />
 
