@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Dashboard – Power BI Project
+# 📊 Superstore Sales Dashboard – Power BI Project by Prashant
 
 An interactive Power BI dashboard showcasing sales and profit insights across regions using the Superstore dataset.
 
@@ -12,6 +12,13 @@ This project showcases an interactive Power BI dashboard built using the Superst
 - Profit margin and trend analysis visuals
 - Category-wise and region-wise breakdowns
 - Drill-through functionality for detailed views
+
+
+## About the Author
+
+Hi, I’m **Prashant**, a data analytics enthusiast specializing in Power BI dashboards and business intelligence.  
+This project is part of my portfolio demonstrating skills in data cleaning, visualization, and analytics.
+
 
 ## 📁 File Included
 
