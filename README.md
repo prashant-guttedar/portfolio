@@ -29,6 +29,9 @@ This dashboard is part of my data analytics portfolio. It demonstrates my abilit
 ## 📷 Screenshots
 <img width="1161" height="753" alt="Screenshot 2025-07-22 124315" src="https://github.com/user-attachments/assets/30347f58-e851-4baa-bb8c-f2363af9e6b8" />
 <img width="968" height="573" alt="image" src="https://github.com/user-attachments/assets/86dfe67a-f1ef-491e-9279-63a6119cba4c" />
+<img width="1078" height="653" alt="image" src="https://github.com/user-attachments/assets/4bd1b050-c40e-42be-a9e3-8abeca202b0e" />
+<img width="1141" height="696" alt="Screenshot 2025-07-23 163812" src="https://github.com/user-attachments/assets/161898f5-d946-425f-bf8a-3e25c68c66f3" />
+
 
 
 
