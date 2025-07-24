@@ -44,6 +44,8 @@ This dashboard is part of my data analytics portfolio. It demonstrates my abilit
 <img width="1161" height="553" alt="image" src="https://github.com/user-attachments/assets/84eb980c-aadc-442b-8656-e86d870e9a2b" />
 <img width="1161" height="691" alt="image" src="https://github.com/user-attachments/assets/9733cfa2-3b16-4fb4-bc59-786ba0e0f7d4" />
 <img width="1161" height="621" alt="image" src="https://github.com/user-attachments/assets/bf6b8312-f468-43f1-bcb7-c305c0fa4ea8" />
+<img width="1127" height="643" alt="image" src="https://github.com/user-attachments/assets/1e329f6e-da0a-461d-abe9-91bc2dbd713a" />
+
 
 
 
