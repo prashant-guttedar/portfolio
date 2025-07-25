@@ -45,6 +45,13 @@ This dashboard is part of my data analytics portfolio. It demonstrates my abilit
 <img width="1161" height="691" alt="image" src="https://github.com/user-attachments/assets/9733cfa2-3b16-4fb4-bc59-786ba0e0f7d4" />
 <img width="1161" height="621" alt="image" src="https://github.com/user-attachments/assets/bf6b8312-f468-43f1-bcb7-c305c0fa4ea8" />
 <img width="1127" height="643" alt="image" src="https://github.com/user-attachments/assets/1e329f6e-da0a-461d-abe9-91bc2dbd713a" />
+<img width="1161" height="693" alt="Screenshot 2025-07-25 121812" src="https://github.com/user-attachments/assets/22ab46f3-dadd-4e07-b4f9-d7bc5012aa90" />
+<img width="1161" height="593" alt="Screenshot 2025-07-25 121837" src="https://github.com/user-attachments/assets/3ddb2023-5743-456a-b479-0f3553de7f44" />
+<img width="1161" height="418" alt="Screenshot 2025-07-25 121855" src="https://github.com/user-attachments/assets/f217774d-2177-49f5-ae06-19da4cf95cf4" />
+
+
+
+
 
 
 
