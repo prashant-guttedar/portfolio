@@ -7,6 +7,7 @@ This Power BI project analyzes data collected from a student retail activity sur
 ## 📁 File Included
 
 - `student survey.pbix` – The full Power BI report
+- Student Survey Data.xlsx  Dataset
 
 ---
 
