@@ -52,7 +52,7 @@ This Power BI project analyzes data collected from a student retail activity sur
 🔗 [GitHub Profile](https://github.com/prashant-guttedar)
 
 Screenshots
-<img width="1212" height="671" alt="Screenshot 2025-08-01 122019" src="https://github.com/user-attachments/assets/a0b96186-24a4-4b65-a6de-f60fcf832fb3" />
+<img width="1201" height="685" alt="Screenshot 2025-08-02 231456" src="https://github.com/user-attachments/assets/166105a2-eb23-4bec-9ca4-6d3a992f3eba" />
 <img width="1212" height="599" alt="Screenshot 2025-08-01 122057" src="https://github.com/user-attachments/assets/a4351721-8fb2-48a3-b1a7-2c133b922a99" />
 <img width="1212" height="680" alt="Screenshot 2025-08-01 122124" src="https://github.com/user-attachments/assets/c1a7a0ab-c950-4055-9caf-bec3c46accea" />
 <img width="1136" height="637" alt="Screenshot 2025-08-01 122153" src="https://github.com/user-attachments/assets/222c31c6-a70d-4c7d-83b5-c4fa1618cd94" />
@@ -64,6 +64,10 @@ Screenshots
 <img width="1315" height="258" alt="Screenshot 2025-08-01 175638" src="https://github.com/user-attachments/assets/c2662019-b183-47b4-bfff-3da5fae9d9a5" />
 <img width="1752" height="888" alt="Screenshot 2025-08-02 222146" src="https://github.com/user-attachments/assets/4487098e-eaa0-4b99-b18a-f12b5c2f6f34" />
 <img width="1292" height="916" alt="Screenshot 2025-08-02 222202" src="https://github.com/user-attachments/assets/c1f5d438-5cd1-42af-888e-dd75f32253be" />
+<img width="1050" height="688" alt="Screenshot 2025-08-02 231527" src="https://github.com/user-attachments/assets/9cc1fdcc-11e7-4f43-b525-d338fd3a95a3" />
+<img width="1110" height="606" alt="Screenshot 2025-08-02 231517" src="https://github.com/user-attachments/assets/330a72e9-65f3-4480-9c1c-976c4f55c64c" />
+
+
 
 
 
