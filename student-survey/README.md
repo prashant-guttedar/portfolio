@@ -58,10 +58,7 @@ Screenshots
 <img width="1136" height="637" alt="Screenshot 2025-08-01 122153" src="https://github.com/user-attachments/assets/222c31c6-a70d-4c7d-83b5-c4fa1618cd94" />
 <img width="1212" height="689" alt="Screenshot 2025-08-01 122207" src="https://github.com/user-attachments/assets/1d1ccfdc-9b97-4daf-a5a4-698c68079cb9" />
 <img width="1212" height="692" alt="Screenshot 2025-08-01 122220" src="https://github.com/user-attachments/assets/cff97153-e69e-46ee-8985-f2ca1830730c" />
-![Uploading Screenshot 2025-08-01 175442.png…]()
-![Uploading Screenshot 2025-08-01 175459.png…]()
-![Uploading Screenshot 2025-08-01 175546.png…]()
-![Uploading Screenshot 2025-08-01 175638.png…]()
+
 
 
 
