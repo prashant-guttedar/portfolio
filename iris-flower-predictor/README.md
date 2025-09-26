@@ -25,7 +25,7 @@ This is a Streamlit web application that predicts the species of an Iris flower 
 
 output screenshots
 
-
+<img width="1577" height="892" alt="Screenshot 2025-09-26 200549" src="https://github.com/user-attachments/assets/5a96ba94-118a-47d4-ba60-200904904337" />
 <img width="1577" height="892" alt="Screenshot 2025-09-26 180657" src="https://github.com/user-attachments/assets/49923a24-83ec-45a6-a219-a5bd47fb6cf1" />
 <img width="1577" height="892" alt="Screenshot 2025-09-26 180730" src="https://github.com/user-attachments/assets/aaa56252-358a-426a-9da3-ad20a0c0487a" />
 <img width="1577" height="892" alt="Screenshot 2025-09-26 181142" src="https://github.com/user-attachments/assets/fb624fad-2294-4204-ba92-401ffda04528" />
